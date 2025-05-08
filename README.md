@@ -64,10 +64,10 @@ python inference_dl.py
 确保已安装以下依赖包：
 
 * Python 3.x
-* 其他依赖可以通过运行 `requirements.txt` 文件安装：
+* 其他依赖可以通过运行 `environment.yaml` 文件安装：
 
 ```bash
-pip install -r requirements.txt
+pip install -r  environment.yaml
 ```
 
 ## 注意事项
